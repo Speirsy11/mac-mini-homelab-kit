@@ -19,6 +19,8 @@ Mac mini owners who want self-hosting, media, monitoring, local AI/agent infrast
 3. £199 setup review: advise on Mac/storage/network plan.
 4. £499–£799 BYO setup service: remote/screenshare setup for Mac mini + Tailscale + monitoring + local AI apps.
 
+See `docs/service-offer.md` for concrete deliverables, boundaries, support policy, and acceptance criteria.
+
 ## Scoring
 
 - Speed: 5/5 — Charlie already has a working setup; this draft is extracted from it.
@@ -36,6 +38,7 @@ Internal only until approved:
 - Test installer into a temp directory.
 - Compare Immich compose with official docs before including photos profile.
 - Redact personal hostnames/IPs/screenshots.
+- Use `docs/redaction-and-publish-checklist.md` before any public repo/post/offer-page step.
 
 Approval-gated:
 
