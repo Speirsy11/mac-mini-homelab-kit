@@ -1,0 +1,6 @@
+# Placeholder routes. Enable proxy only after choosing hostnames and access model.
+# Prefer Tailscale-only access first. Do not expose admin UIs publicly.
+
+# kuma.{$DOMAIN} {
+#   reverse_proxy uptime-kuma:3001
+# }
